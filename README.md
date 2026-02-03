@@ -15,6 +15,8 @@ At the center of this analysis is a critical business question:
 
 Rather than jumping directly into machine learning, this project emphasizes **statistical rigor, reproducibility, and clear interpretation** of results that can be understood by both technical and non-technical stakeholders.
 
+With additional time allocated for deeper business decision support, this analysis could be extended using **unsupervised learning techniques** such as clustering to segment customers into behavioral groups based on tenure, services, charges, and contract structure. This would allow the organization to move beyond identifying *why* customers churn and toward identifying *which types* of customers are most at risk, enabling more targeted and proactive retention strategies.
+
 ---
 
 ## Objective
