@@ -7,7 +7,7 @@
 
 This project analyzes customer churn behavior in a telecommunications dataset to identify the factors most strongly associated with customer attrition.
 
-Developed as part of a formal data analytics thesis, this work demonstrates the application of statistical methodology to a real-world telecommunications problem. The focus is on clear, reproducible analysis rather than black-box modeling, emphasizing foundational data science principles that produce trustworthy business insight.
+Developed as part of a formal data analytics thesis, this work demonstrates the application of statistical methodology to a real-world telecommunications problem. The focus is on clear, reproducible analysis that emphasizes foundational data science principles with the added vigor of producing trustworthy business insight.
 
 At the center of this analysis is a critical business question:
 
